@@ -10,7 +10,7 @@
 Написать функцию GetMinMax в find\_max\_min.c, которая ищет минимальный и максимальный элементы массива, на заданном промежутке.
 Разобраться, что делает программа в sequiential\_min\_max.c, скомпилировать, проверить, что написанный вами GetMinMax работает правильно.
 
-### Ресурсы
+### Ресурсыhttps://www.cprogramming.com/tutorial/c/lesson14.html
 
 1. [Как компилировать простые программы с gcc (заменить сс на gcc).](https://www.classes.cs.uchicago.edu/archive/2014/winter/51081-1/LabFAQ/lab3/compile.html)
 2. [Пример с аргументами командной строки.](https://www.cprogramming.com/tutorial/c/lesson14.html)
@@ -50,7 +50,7 @@
 
 ### Необходимые знания
 
-1. Системный вызов `exec`
+1. Системный вызов `exec`https://www.cprogramming.com/tutorial/c/lesson14.html
 
 Написать программу, которая запускает в отдельном процессе ваше приложение sequiential\_min\_max. Добавить его сборку в ваш makefile.
 
